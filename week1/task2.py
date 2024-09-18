@@ -1,3 +1,9 @@
+"""
+leetcode.com/problem-list/string/
+url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+"""
+
+
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if not digits:
