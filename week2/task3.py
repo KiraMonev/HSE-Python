@@ -5,7 +5,7 @@ url: https://leetcode.com/problems/letter-case-permutation/description/
 
 
 class Solution:
-    def letterCasePermutation(self, s: str) -> List[str]:
+    def letterCasePermutation(self, s: str) -> list[str]:
         ans = []
 
         self.solve(ans, s, "")

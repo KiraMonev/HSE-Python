@@ -5,7 +5,7 @@ url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/descrip
 
 
 class Solution:
-    def letterCombinations(self, digits: str) -> List[str]:
+    def letterCombinations(self, digits: str) -> list[str]:
         if not digits:
             return []
 

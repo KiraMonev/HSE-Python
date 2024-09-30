@@ -5,7 +5,7 @@ url: https://leetcode.com/problems/adding-spaces-to-a-string/description/
 
 
 class Solution:
-    def addSpaces(self, s: str, spaces: List[int]) -> str:
+    def addSpaces(self, s: str, spaces: list[int]) -> str:
         s_arr = list(s)
 
         for idx in spaces:

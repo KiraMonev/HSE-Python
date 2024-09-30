@@ -5,7 +5,7 @@ url: https://leetcode.com/problems/maximum-product-of-word-lengths/description/
 
 
 class Solution:
-    def maxProduct(self, words: List[str]) -> int:
+    def maxProduct(self, words: list[str]) -> int:
         ans = 0
         for i in range(len(words)):
             first_word = words[i]

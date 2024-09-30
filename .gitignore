@@ -156,3 +156,7 @@ cython_debug/
 
 # PyCharm
 .idea/
+
+.flake8
+.pre-commit-config.yaml
+pyproject.toml
