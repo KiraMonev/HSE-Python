@@ -1,6 +1,6 @@
 """
 leetcode.com/problem-list/sliding-window
-url:
+url: https://leetcode.com/problems/count-number-of-nice-subarrays/description/
 """
 
 
